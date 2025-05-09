@@ -1,6 +1,6 @@
 ## Hi there! I'm Carlos Gabriel!
 
-**Aspirante a animador
+**Aspirante a animador.
 
 <!--
 **CarlosGabriel73/CarlosGabriel73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
